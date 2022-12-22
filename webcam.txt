@@ -13,8 +13,7 @@
 #
 # Defaults to auto
 #
-camera="usb"
-
+camera="auto"
 ### Additional options to supply to MJPG Streamer for the USB camera
 #
 # See https://faq.octoprint.org/mjpg-streamer-config for available options
