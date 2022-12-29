@@ -1,0 +1,16 @@
+{
+    "connection": {
+        "moonraker_url": "http://rooster.vip:7125",
+        "moonraker_token": "",
+        "bot_token": "MTA1Nzc0Mzk0NDM1MzU5MTQ0Ng.GMF_Om.14hxKS5AlHVaNJ-w2RMRMpmSMFk3SN3oYO7Vlg"
+    },
+    "permission": {
+        "controllers": {
+            "users": "96074241471971328"
+        }
+    },
+    "webcam": {
+        "url": "http://192.168.1.124:8080/memfs/94a79f61-92da-457a-9457-5a256a7ccfe2.jpg"
+    },
+    "tmp_path": "/tmp/MoonCord"
+}
